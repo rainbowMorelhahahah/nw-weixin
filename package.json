@@ -1,0 +1,21 @@
+{
+  "name": "nw-weixin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "https://wx.qq.com/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "window": {
+    "width": 800,
+    "height": 600,
+    "frame": true,
+    "tooltar": false
+  },
+  "devDependencies": {
+    "nw-builder": "^3.1.2"
+  }
+}
